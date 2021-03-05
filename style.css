@@ -1,0 +1,95 @@
+body {
+ background-color: #DCDCDC	;	
+}
+
+
+table,td {
+    border: 1px solid #333;
+}
+
+.th1, .th3 {
+	 width : 350px;
+}
+
+.th2 {
+	width :250px;
+}
+
+.thfin {
+	width : 150px;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
+
+.ajout {
+	font-family: 'Arial';
+	background-color: #4169E1;
+	color: white;
+	width: 200px;
+	height: 30px;
+	font-size: 14px;
+}
+
+.suppression {
+	font-family: 'Arial';
+	background-color: #DC143C;
+	color: white;
+	width: 80px;
+	height: 25px;
+	font-size: 14px;
+}
+
+input {
+	width: 250px;
+	height: 30px;
+	font-family: 'Arial';
+	font-size: 14px;
+}
+th{
+	font-family: 'Arial';
+	font-size: 18px;
+	text-align: left;
+	padding-left: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+td {
+	font-family: 'Arial';
+	font-size: 17px;
+	padding-left: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.prixtotal {
+	font-family: 'Arial';
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width:250px;
+	background-color: #FFD700;
+	border: 1px solid #333;
+	height:50px;
+	padding-left: 8px;
+}
+select{
+	width:200px;
+	height:30px;
+	font-size: 14px;
+}
+
+img {
+	width:20px;
+	height:20px;
+	
+	}
+button {
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+
+}
